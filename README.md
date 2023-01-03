@@ -4,4 +4,4 @@ By Jose Portilla
 
 Linear Regression, Cross Validation and Bias-Variance Trade-off, Logistic Regression, 
 K Nearest Neighbors, Support Vector Machines, K Means Clustering, Principal Component Analysis, 
-Recommender Systems, Natural Language Processing, Neural Nets and Deep Learning
+Recommender Systems, and Natural Language Processing
